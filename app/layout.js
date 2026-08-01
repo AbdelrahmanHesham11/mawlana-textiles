@@ -21,7 +21,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="ar" dir="rtl" suppressHydrationWarning>
       <head>
-        <link rel="icon" href="/images/logo.jpg" />
+        <link rel="icon" href="/images/logo.png" />
         <meta name="theme-color" content="#1a2744" />
       </head>
       <body>

@@ -59,7 +59,7 @@ export default function Navbar() {
     <nav className={`navbar ${isScrolled ? 'scrolled' : ''}`}>
       <div className="container">
         <a href="#about" onClick={() => setIsMobileMenuOpen(false)}>
-          <Image src="/images/logo.jpg" alt="Mawlana" width={60} height={60} className="navbar-logo" style={{ borderRadius: '50%' }} />
+          <Image src="/images/logo.png" alt="Mawlana" width={60} height={60} className="navbar-logo" style={{ borderRadius: '50%' }} />
         </a>
 
         <div className="nav-links">

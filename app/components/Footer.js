@@ -12,7 +12,7 @@ export default function Footer() {
         <div className="footer-grid">
           <div className="footer-about">
             <div className="footer-logo">
-              <Image src="/images/logo.jpg" alt="Mawlana Textiles" width={60} height={60} style={{ borderRadius: '50%' }} />
+              <Image src="/images/logo.png" alt="Mawlana Textiles" width={60} height={60} style={{ borderRadius: '50%' }} />
             </div>
             <p className="footer-text">{t('footer.aboutText')}</p>
           </div>
